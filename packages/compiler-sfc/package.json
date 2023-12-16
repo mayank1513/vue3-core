@@ -35,7 +35,7 @@
     "@babel/parser": "^7.23.3",
     "@vue/compiler-core": "3.3.8",
     "@vue/compiler-dom": "3.3.8",
-    "@vue/compiler-ssr": "3.3.8",
+    "@vue/compiler-ssr": "3.3.9",
     "@vue/reactivity-transform": "3.3.8",
     "@vue/shared": "3.3.8",
     "estree-walker": "^2.0.2",
